@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "304870860675",
+    "firebase_url": "https://yorkscape-c19a9-default-rtdb.firebaseio.com",
+    "project_id": "yorkscape-c19a9",
+    "storage_bucket": "yorkscape-c19a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304870860675:android:86ca74d50a57681069f8b6",
+        "android_client_info": {
+          "package_name": "com.ethan.yorkscape"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304870860675-ejnto9l7ekq80k7efu2bbdkeps8lp6kl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVFNyoMEuR994f_ZeV1yeIfX2ptm8nAl0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304870860675-ejnto9l7ekq80k7efu2bbdkeps8lp6kl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "304870860675-fj5si9qb8g4616tbbilvttkg2uc6kphs.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ethan.yorkscape"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
